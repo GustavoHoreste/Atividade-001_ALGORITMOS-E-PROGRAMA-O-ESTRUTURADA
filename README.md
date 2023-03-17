@@ -1,5 +1,5 @@
 # Atividade-001_ALGORITMOS-E-PROGRAMA-O-ESTRUTURADA
-
+## feito por Gustavo Horestee Santos Barros estudante de ciência da computacação da universidade católica de Brasília
 1. Faça um programa em que o usuário digite o custo de uma determinada mercadoria, em seguida, adiciona-se ao custo o valor do frete e despesas eventuais (também solicitadas pelo teclado). Para concluir, o programa pergunta qual o valor de venda e indica a percentagem de lucro da mercadoria
 
 2. Escreva um programa que pergunte qual o raio de um círculo e imprima a sua área. 
